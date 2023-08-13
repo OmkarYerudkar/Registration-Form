@@ -1,0 +1,30 @@
+.inner{
+    border: 1px solid black;
+}
+form{
+    color: rgb(78,56,155);
+    margin: 40px;
+    padding: 2rem;
+    /* margin-left: 20%;
+    margin-right: 20%; */
+}
+table{
+    background-color: gray;
+    padding: 20px;
+
+}
+h1{
+    text-align: center;
+}
+select{
+    width: 100%;
+}
+.xyz{
+    width: 25%;
+}
+.btn1:hover{
+   background-color: brown;
+}
+.btn{
+    color: blueviolet;
+}
